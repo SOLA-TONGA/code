@@ -26,5 +26,4 @@ NOTE: You are not required to use gits. You can still deal with each repository 
 
 One issue with using Git Slave to push and pull from GitHub is that the gits pull and gits push commands prompt for the user's GitHub password or every nested repository (i.e. up to 10 times). To avoid this it is possible to configure ssh-agent within your Git Bash session. To do this open the Git Bash shell and cd to the git-support subdirectory of the code repository. This folder contains the .bashrc file. Using the Git Bash shell copy the .bashrc file to your HOME directory (cp .bashrc ~). Restart the Git Bash shell to launch the ssh-agent. You will be prompted for your GitHub password and this will be stored for future use. For further details regarding ssh-agent refer to the GitHub help (http://help.github.com/ssh-key-passphrases/ - Auto-launching ssh-agent on msysgit). 
 
-The Git Slave home page is http://gitslave.sourceforge.net/. The version currently used by SOLA is 2.0.2. 		   
-			  
+The Git Slave home page is http://gitslave.sourceforge.net/. The version currently used by SOLA is 2.0.2.
