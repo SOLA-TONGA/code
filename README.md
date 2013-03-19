@@ -1,4 +1,4 @@
- ## Solutions for Open Land Administration (SOLA) 
+Solutions for Open Land Administration (SOLA) 
 =====
 
 Solutions for Open Land Administration (SOLA) is an open source software system that aims to make computerised cadastre and
