@@ -113,6 +113,7 @@
                 <version>2.0</version>                     
             </plugin>
             <plugin>
+                <!-- To apply the license header, use the license:format goal-->
                 <groupId>com.mycila.maven-license-plugin</groupId>
                 <artifactId>maven-license-plugin</artifactId>
                 <version>1.9.0</version>
