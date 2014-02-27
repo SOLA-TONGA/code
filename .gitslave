@@ -5,5 +5,5 @@
 "../services.git" "services"
 "../boundary.git" "services/boundary"
 "../clients.git" "clients"
-"../database_tonga.git" "../database_tonga"
+"../database.git" "../database"
 "../test.git" "test"
